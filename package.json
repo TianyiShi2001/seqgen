@@ -1,0 +1,30 @@
+{
+  "name": "bio-sequence-generator",
+  "version": "0.0.1",
+  "description": "DNA/RNA/Protein Sequence Generator",
+  "main": "index.js",
+  "bin": {
+    "seqgen": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TianyiShi2001/seqgen.git"
+  },
+  "keywords": [
+    "bioinformatics",
+    "random",
+    "science"
+  ],
+  "author": "Tianyi Shi <ShiTianyi2001@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TianyiShi2001/seqgen/issues"
+  },
+  "homepage": "https://github.com/TianyiShi2001/seqgen#readme",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  }
+}
